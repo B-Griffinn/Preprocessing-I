@@ -175,6 +175,7 @@ body {
 .container header nav a {
   text-decoration: none;
   margin: 50px;
+
 }
 .container .top-content {
   background: lightgray;
@@ -184,6 +185,7 @@ body {
   flex-wrap: wrap;
   margin: 0 10% 0 10%;
   font-size: 1.5rem;
+
 }
 .container .top-content .top-img {
   width: 20%;
